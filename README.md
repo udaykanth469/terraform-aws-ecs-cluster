@@ -1,4 +1,4 @@
-# terraform-aws-ecs-cluster
+# terraform-aws-ecs-cluster and it has EC2 container service not FARGATE
 
 [![CircleCI](https://circleci.com/gh/azavea/terraform-aws-ecs-cluster.svg?style=svg)](https://circleci.com/gh/azavea/terraform-aws-ecs-cluster)
 
